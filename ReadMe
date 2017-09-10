@@ -1,6 +1,7 @@
-ReadMe
 
 This program comes from a Java program I wrote over the summer for my job at HiQ Labs.
 It scrapes Google's search results using Nokogiri to grab both the names and public LinkedIn urls of a specific company's employees.  
 
-The Ruby version is much more concise and makes a lot more sense at first glance.  My implementation of JSoup is very messy and I’m happy to see how easy scraping is in Ruby. 
+The Ruby version is much more concise.
+
+The Java is my first piece of ~production code~ so it is more of a momento than functional (try to read it)
